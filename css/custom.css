@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.clear
+{
+	clear:both;
+}
+.provider_action_set span
+{
+	margin:0 15px 0 5px;
+}
+.check_tags
+{
+	margin:0 0 0 20px;
+}
+.providersetup_inline
+{
+	display:inline-block;
+	background:url(../images/vidicon.png) no-repeat scroll top center;
+	width:33px;
+	height:32px;
+	margin-left:15px;
+}
+.providersetup h3
+{
+	margin:20px 10px 5px;
+}
+.providersetup_inline, .providersetup h3 img, .providersetup h3 span
+{
+	float:left;
+}
+.providersetup h3 img
+{
+	margin:10px 5px 0 0;
+}
+.providersetup h3 span
+{
+	margin:10px 0 0;
+}
